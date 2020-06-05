@@ -8,4 +8,5 @@ body{
 .container{
 
     border: 1px gray;
+    padding: 20px;
 }
