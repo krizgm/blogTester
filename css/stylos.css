@@ -7,6 +7,6 @@ body{
 
 .container{
 
-    border: red;
+    border: 1px rebeccapurple;
     padding: 20px;
 }
